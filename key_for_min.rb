@@ -3,8 +3,6 @@
 
 def key_for_min_value(name_hash)
   name_hash.values.min_by(&last)
-    
-
-end
+    end
 end
 
